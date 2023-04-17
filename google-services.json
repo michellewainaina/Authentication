@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998937109146",
+    "project_id": "authentication-235cc",
+    "storage_bucket": "authentication-235cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998937109146:android:28f0b6a427f432e9ecf523",
+        "android_client_info": {
+          "package_name": "com.composecamp.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998937109146-rqfhogjjpc3j07brc8ek59ba8vu5a5m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjb-8tSB1fTuvvTrsHnsPZtoPO_7bO5uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998937109146-rqfhogjjpc3j07brc8ek59ba8vu5a5m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
